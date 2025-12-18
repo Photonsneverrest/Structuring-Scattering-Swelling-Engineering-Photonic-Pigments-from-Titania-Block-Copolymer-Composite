@@ -5,7 +5,7 @@ This repository contains the **raw experimental data** supporting the publicatio
 > **Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composites**  
 > Author(s)  
 > *Journal*, Year  
-> DOI: [https://doi.org/XXXX](https://doi.org/10.5281/zenodo.17976499)
+> DOI: https://doi.org/10.5281/zenodo.17976499
 
 The data are provided to support transparency, reproducibility, and reuse of the results reported in the paper.
 
