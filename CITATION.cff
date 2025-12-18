@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composites
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Niklas Rocca
+    family-names: Schwarz
+    email: niklas.schwarz@unifr.ch
+    affiliation: University of Fribourg
+    orcid: 'https://orcid.org/0009-0004-3551-4535'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17976500
+    description: Github repository linked to Zenodo
+  - type: url
+    value: 'https://doi.org/10.5281/zenodo.17976499'
+    description: Repository Link
+repository-code: >-
+  https://github.com/Photonsneverrest/Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composite
+license: CC0-1.0
